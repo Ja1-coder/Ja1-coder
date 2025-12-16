@@ -1,15 +1,15 @@
 # Hi, I'm João Victor! 👋
 
-I am an **Information Systems student** at the State University of Montes Claros (Unimontes) and a **Software Developer** focused on building efficient web solutions.
+I am an **Information Systems student** at the State University of Montes Claros (Unimontes) and a **Software Developer**.
 
 ---
 
 ### About Me
-* A passionate Software Developer focused on building efficient web solutions.
+* A passionate Software Developer.
 * Currently studying Information Systems at [UNIMONTES](https://unimontes.br).
 * Deeply interested in the world of programming and constant learning.
 * Open to collaborating on innovative projects and solving complex challenges.
-* I am currently open for an Intern or a new job opportunity — [This is my resume](LINK_PARA_SEU_PDF).
+* I am currently open for an Intern or a new job opportunity — [This is my resume](https://drive.google.com/file/d/1yoUlAIRj8vW13R86J6ph3E9XP-uzU48h/view?usp=sharing).
 
 ---
 
